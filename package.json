@@ -1,0 +1,26 @@
+{
+  "name": "@dead404code/lightbulbcss",
+  "version": "v1.0.0-Pre",
+  "description": "Just a simple JavaScript library for generating random CSS properties, ideal for random lightbulb flickers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadCodeGames/lightbulbCSS.git"
+  },
+  "keywords": [
+    "flicker",
+    "js",
+    "css"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
+  "author": "kanshen.click <richard@kanshen.click> (https://deadcode.is-a.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeadCodeGames/lightbulbCSS/issues"
+  },
+  "homepage": "https://github.com/DeadCodeGames/lightbulbCSS#readme"
+}

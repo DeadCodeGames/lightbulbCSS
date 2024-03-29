@@ -1,6 +1,6 @@
 {
   "name": "@dead404code/lightbulbcss",
-  "version": "v1.0.0-Pre",
+  "version": "v1.0.0-Stable",
   "description": "Just a simple JavaScript library for generating random CSS properties, ideal for random lightbulb flickers.",
   "repository": {
     "type": "git",
